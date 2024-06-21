@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sohumpathak1402
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning javascript.
+- 📫 Reach me at sohum.pathak@protonmail.com
